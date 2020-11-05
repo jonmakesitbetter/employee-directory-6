@@ -1,10 +1,12 @@
 import React from "react";
+import Search from "./components/Search";
+import Table from "./components/Table";
 
 function App() {
   return (
     <div className="App">
-<h1>App.js file</h1>
-<h5>Header, search bar, and table go here</h5>
+<Search/>
+<Table/>
     </div>
   );
 }
