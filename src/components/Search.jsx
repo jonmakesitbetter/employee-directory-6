@@ -3,6 +3,7 @@ import API from "../utils/API";
 
 
 
+
 class Search extends Component {
 
     state = { employees: [], searchTerm: "", filteredEmployees: [] }
