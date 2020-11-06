@@ -11,7 +11,7 @@
   [tests](#Tests)
   [questions](#Questions)
   ## Usage
-  Simply navigate to URL HERE to begin using this application. Typing an employee's first name in the search bar will show only employees with that first name and takes effect as you type. The "First" text above the first name column, you will notice, is a button that you can click to alphabetize the employee list by first name. Refresh the page to start with a new, unalphabetized list.
+  Simply navigate to https://jonmakesitbetter.github.io/employee-directory-6/ to begin using this application. ![employee directory](public\images\employeeDirectory.png) Typing an employee's first name in the search bar will show only employees with that first name and takes effect as you type. The "First" text above the first name column, you will notice, is a button that you can click to alphabetize the employee list by first name. Refresh the page to start with a new, unalphabetized list. ![employee directory search](public\images\employeeDirectorySearch.png)
   
   ## License
   This project is under the MIT license. 
