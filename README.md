@@ -16,7 +16,7 @@
   ## License
   This project is under the MIT license. 
   ## Contributing
-  If you wish to contribute to this project, please contact me at jonmakesitbetter@gmail.com. Current contributors are [Eduardo Pineda](https://github.com/Edibozu), [Jason Ozulumba](https://github.com/MBPJason), and Rayshawn Bray.
+  If you wish to contribute to this project, please contact me at jonmakesitbetter@gmail.com. Current contributors are [Eduardo Pineda](https://github.com/Edibozu), [Jason Ozulumba](https://github.com/MBPJason), and [Rayshawn Bray](https://github.com/2coldray).
   ## Tests
   
   ## Questions
