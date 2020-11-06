@@ -1,70 +1,26 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Employee Directory
+  ![Badge](https://img.shields.io/github/languages/code-size/jonmakesitbetter/employee-directory-6)
+  ![MIT](https://img.shields.io/static/v1?label=License&message=MIT&color=green)
+  ## Description
+  This application is a simple mock employee directory that populates a table with employees and some information about them and includes a search function, all built with React.
+  ## Table of Contents
+  [installation](#Installation)
+  [usage](#Usage)
+  [license](#License)
+  [contributing](#Contributing)
+  [tests](#Tests)
+  [questions](#Questions)
+  ## Usage
+  Simply navigate to URL HERE to begin using this application. Typing an employee's first name in the search bar will show only employees with that first name and takes effect as you type. The "First" text above the first name column, you will notice, is a button that you can click to alphabetize the employee list by first name. Refresh the page to start with a new, unalphabetized list.
+  
+  ## License
+  This project is under the MIT license. 
+  ## Contributing
+  If you wish to contribute to this project, please contact me at jonmakesitbetter@gmail.com. Current contributors are [Eduardo Pineda](https://github.com/Edibozu), [Jason Ozulumba](https://github.com/MBPJason), and Rayshawn Bray.
+  ## Tests
+  
+  ## Questions
+  If you have any questions, please feel free to contact me at
+  [jonmakesitbetter@gmail.com](jonmakesitbetter@gmail.com) or see my GitHub at 
+  [jonmakesitbetter](https://github.com/jonmakesitbetter/).
+  
